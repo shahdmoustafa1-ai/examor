@@ -1,0 +1,14 @@
+torch
+torchvision
+opencv-python
+insightface
+onnxruntime
+numpy<2.0.0
+pandas
+ultralytics
+scipy
+mediapipe
+seaborn
+xgboost
+scikit-learn
+joblib
